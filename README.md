@@ -84,7 +84,7 @@ when this was viewed on smaller devices, whitespace was obvious below the images
         
         min-height: 800px;
         
-to ensure that the images didn't shrink too much, and additionally set the overflows to visible. This solved the problem.
+to ensure that the images still resized repsonsively, but didn't shrink too much, and additionally set the overflows to visible. This solved the problem.
 
 The HTML code was validated here (https://validator.w3.org/)
 
