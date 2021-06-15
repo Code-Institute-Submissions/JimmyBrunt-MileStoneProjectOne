@@ -86,7 +86,7 @@ The site was also checked on Galaxy S9, Android 7.0, IPad, IPhone 6/7/8 IOS 11, 
 
 Two issues discovered during testing.
 
-The first was that as the backgroud images for each section are landscape, and because I used 
+The first was that as the background images for each section are landscape, and because I used 
 
         height: 100vh;
 
