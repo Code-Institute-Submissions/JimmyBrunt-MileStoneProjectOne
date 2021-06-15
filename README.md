@@ -1,4 +1,4 @@
-# MileStoneProjectOne
+# Mile Stone Project One - Front End User-Centric
 
 Code Academy Milestone Project One
 
