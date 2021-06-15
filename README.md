@@ -61,9 +61,8 @@ Includes contact details; address, email and telephone, with clickable links.
 
 - Linux Terminal to download Filezilla using: 
 
-        '''
         sudo apt get install filezilla
-        '''
+
 
 - sFTP using Filezilla to push files to Gandi servers
 
@@ -79,15 +78,12 @@ The site was also checked on Galaxy S9, Android 7.0, IPad, IPhone 6/7/8 IOS 11, 
 
 The only issue discovered during testing was that as the backgroud images for each section are landscape, and because I used 
 
-        '''
         height: 100vh;
-        '''
 
 when this was viewed on smaller devices, whitespace was obvious below the images. So I utlised              
-
-        '''
+        
         min-height: 800px;
-        '''
+        
 to ensure that the images didn't shrink too much, and additionally set the overflows to visible. This solved the problem.
 
 The HTML code was validated here (https://validator.w3.org/)
