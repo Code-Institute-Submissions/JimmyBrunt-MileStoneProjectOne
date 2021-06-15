@@ -77,11 +77,19 @@ The only issue discovered during testing was that as the backgroud images for ea
 
 The HTML code was validated here (https://validator.w3.org/)
 
+The results of this validation can be found here (http://www.jamesbrunt.co.uk/htmlvalidation.png)
+
 The CSS code was validate here (https://jigsaw.w3.org/css-validator/)
+
+The results of this validation can be found here (http://www.jamesbrunt.co.uk/cssvalidation.png)
 
 ## Deployment
 
-This site is hosted on Github Pages, deployed from the main branch. There are no differences between the development and deployed version.
+This site is hosted on Gandi servers, and is located here (http://www.jamesbrunt.co.uk/)
+
+It can also be located in a GitHub repository here (https://github.com/JimmyBrunt/MileStoneProjectOne)
+
+It can be deployed from the main branch. There are no differences between the development and deployed version.
 
 To clone this repository to run locally, you can do the following:
 
