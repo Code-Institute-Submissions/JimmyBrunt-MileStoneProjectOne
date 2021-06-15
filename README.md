@@ -17,7 +17,11 @@ When I was designing this website, I wanted to make it as simple and artistic as
 - As a potential client, I want to be able to understand how the developer can help me.
 - As a potential client, I want to be able to understand how to contact the developer.
 
-Wireframes can be found here ().
+Wireframes can be found here:
+
+ - (http://www.jamesbrunt.co.uk/wireframe1.png)
+ - (http://www.jamesbrunt.co.uk/wireframe2.png)
+ - (http://www.jamesbrunt.co.uk/wireframe3.png)
 
 ## Features
 
@@ -53,6 +57,14 @@ Includes contact details; address, email and telephone, with clickable links.
 
 - Font Awesome (https://fontawesome.com/) : Used for the social and heading icons
 
+- Balsamiq for Wireframes
+
+- Linux Terminal to download Filezilla using sudo apt get install filezilla
+
+- sFTP using Filezilla to push files to Gandi servers
+
+- GIMP to edit tone and saturation of images
+
 ## Testing
 
 The site was tested using two browsers, Google Chrome and Mozilla Firefox, on a laptop, where I utilised the DevTools in both browsers to check for compatibility issues on desktop, laptop and mobile devices. 
@@ -69,7 +81,7 @@ The CSS code was validate here (https://jigsaw.w3.org/css-validator/)
 
 ## Deployment
 
-This site is hosted on Github Pages, deployed from the master branch. There are no differences between the development and deployed version.
+This site is hosted on Github Pages, deployed from the main branch. There are no differences between the development and deployed version.
 
 To clone this repository to run locally, you can do the following:
 
