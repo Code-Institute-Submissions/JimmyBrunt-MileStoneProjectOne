@@ -8,6 +8,8 @@ This three-section website highlights my competancies, along with the number of 
 
 A live version can be found here (https://www.jamesbrunt.co.uk)
 
+![Jimmy Brunt : Full Stack Developer](/assets/images/screenshot.png)
+
 ## UX
 
 When I was designing this website, I wanted to make it as simple and artistic as possible, so I chose a one page layout, with different animated sections containing the three different elements.
