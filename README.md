@@ -4,7 +4,7 @@ Code Academy Milestone Project One
 
 A personal website highlighting my skills as a developer.
 
-This three-section website highlights my competancies, along with the number of years experience per competancy, details what I can offer clients, and provides contact details.
+This three-section website highlights my competancies, along with the number of years experience per competancy, details what I can offer clients, and provides contact information.
 
 A live version can be found here (https://jimmybrunt.github.io/MileStoneProjectOne/)
 
@@ -55,7 +55,7 @@ Includes contact details; address, email and telephone, with clickable links.
 
 - CSS : Used to style the HTML elements
 
-- Font Awesome (https://fontawesome.com/) : Used for the social and heading icons
+- Font Awesome (https://fontawesome.com/) : Used for the social and navigation icons
 
 - Balsamiq for Wireframes
 
@@ -79,7 +79,7 @@ The HTML code was validated here (https://validator.w3.org/)
 
 The results of this validation can be found here (http://www.jamesbrunt.co.uk/htmlvalidation.png)
 
-The CSS code was validate here (https://jigsaw.w3.org/css-validator/)
+The CSS code was validated here (https://jigsaw.w3.org/css-validator/)
 
 The results of this validation can be found here (http://www.jamesbrunt.co.uk/cssvalidation.png)
 
@@ -87,7 +87,7 @@ The results of this validation can be found here (http://www.jamesbrunt.co.uk/cs
 
 This site is hosted on Gandi servers, and is located here (http://www.jamesbrunt.co.uk/)
 
-It can also be located in a GitHub repository here (https://github.com/JimmyBrunt/MileStoneProjectOne)
+It is also be located in a GitHub repository here (https://github.com/JimmyBrunt/MileStoneProjectOne)
 
 It can be deployed from the main branch. There are no differences between the development and deployed version.
 
