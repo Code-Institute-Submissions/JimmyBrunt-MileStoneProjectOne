@@ -84,7 +84,9 @@ This did lead to CSS styling changes for smaller devices as certain elements wer
 
 The site was also checked on Galaxy S9, Android 7.0, IPad, IPhone 6/7/8 IOS 11, and IPhone X/XS iOS 12, in all tests, both portrait and landscape views were analysed.
 
-The only issue discovered during testing was that as the backgroud images for each section are landscape, and because I used 
+Two issues discovered during testing.
+
+The first was that as the backgroud images for each section are landscape, and because I used 
 
         height: 100vh;
 
@@ -93,6 +95,8 @@ when this was viewed on smaller devices, whitespace was obvious below the images
         min-height: 800px;
         
 to ensure that the images still resized repsonsively, but didn't shrink too much, and additionally set the overflows to visible. This solved the problem.
+
+The second, was that the background images for each section did not offer enough contrast between the background and the text. This was solved using GIMP and reducing the brightness and saturation.
 
 The HTML code was validated here (https://validator.w3.org/)
 
