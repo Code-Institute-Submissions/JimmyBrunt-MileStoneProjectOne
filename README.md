@@ -37,11 +37,17 @@ Each section has a different background image, which have been specifically chos
 
 Includes a logo and a list of compentanices, which also includes the number of years experience per competancy.
 
+![Section One](/assets/images/small_screenshot_section1.png)
+
 - Section Two
 
 Includes a brief statement highlighting what I can offer clients.
 
+![Section Two](/assets/images/small_screenshot_section2.png)
+
 - Section Three 
+
+![Section Three](/assets/images/small_screenshot_section3.png)
 
 Includes contact details; address, email and telephone, with clickable links.
 
