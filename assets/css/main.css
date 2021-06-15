@@ -16,3 +16,35 @@
     font-family: 'Montserrat', sans-serif;
  }
 
+
+/* LOGO & NAVIGATION */
+
+#logo_detail {
+    font-size: 100px;
+    color: #ffffff;
+}
+    
+nav a {
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    padding: 20px;
+    text-align: left;
+}
+    
+nav {
+    position: fixed;
+    left: 0;
+    z-index: 50;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background:transparent;
+    border-right: 2px solid rgba(58, 83, 155, 1);
+}
+  
+#title_link {
+    text-decoration: none;
+    color: #fff;
+}
+  
