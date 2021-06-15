@@ -1,0 +1,18 @@
+/* INITIAL HOUSEKEEPING */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+ 
+/* CONTAINER - AND LANDING SCREEN */
+  
+.container {
+    background-image: url(/background.jpeg);
+    background-position: center;
+    background-size: cover;  
+    min-height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+ }
+
