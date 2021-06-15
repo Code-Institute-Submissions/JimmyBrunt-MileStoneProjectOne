@@ -59,7 +59,11 @@ Includes contact details; address, email and telephone, with clickable links.
 
 - Balsamiq for Wireframes
 
-- Linux Terminal to download Filezilla using sudo apt get install filezilla
+- Linux Terminal to download Filezilla using: 
+
+        '''
+        sudo apt get install filezilla
+        '''
 
 - sFTP using Filezilla to push files to Gandi servers
 
@@ -73,15 +77,26 @@ This did lead to CSS styling changes for smaller devices as certain elements wer
 
 The site was also checked on Galaxy S9, Android 7.0, IPad, IPhone 6/7/8 IOS 11, and IPhone X/XS iOS 12, in all tests, both portrait and landscape views were analysed.
 
-The only issue discovered during testing was that as the backgroud images for each section are landscape, and because I used height: 100vh; when this was viewed on smaller devices, whitespace was obvious below the images. So I utlised min-height: 800px; to make sure that the images didn't shrink too much, and set the overflow to visible. This solved the problem.
+The only issue discovered during testing was that as the backgroud images for each section are landscape, and because I used 
+
+        '''
+        height: 100vh;
+        '''
+
+when this was viewed on smaller devices, whitespace was obvious below the images. So I utlised              
+
+        '''
+        min-height: 800px;
+        '''
+to ensure that the images didn't shrink too much, and additionally set the overflows to visible. This solved the problem.
 
 The HTML code was validated here (https://validator.w3.org/)
 
-The results of this validation can be found here (http://www.jamesbrunt.co.uk/htmlvalidation.png)
+- The results of this validation can be found here (http://www.jamesbrunt.co.uk/htmlvalidation.png)
 
 The CSS code was validated here (https://jigsaw.w3.org/css-validator/)
 
-The results of this validation can be found here (http://www.jamesbrunt.co.uk/cssvalidation.png)
+- The results of this validation can be found here (http://www.jamesbrunt.co.uk/cssvalidation.png)
 
 ## Deployment
 
