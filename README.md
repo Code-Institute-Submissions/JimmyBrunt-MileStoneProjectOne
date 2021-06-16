@@ -98,6 +98,8 @@ to ensure that the images still resized repsonsively, but didn't shrink too much
 
 The second, was that the background images for each section did not offer enough contrast between the background and the text. This was solved using GIMP and reducing the brightness and saturation.
 
+Some feedback after deployment was to reconsider whether or not the landing page should have more detail or a call-to-action of somesort. This was considered, but I have decided to stick with the blank page, as, for me, this is an important part of the design of the website. I want it to be minimal, that's the whole point. In a world where we are bombarded with data on every single web-page, I strongly believe that this minimalism is a good way of standing out from the crowd.
+
 The HTML code was validated here (https://validator.w3.org/)
 
 - The results of this validation can be found here (http://www.jamesbrunt.co.uk/htmlvalidation.png)
