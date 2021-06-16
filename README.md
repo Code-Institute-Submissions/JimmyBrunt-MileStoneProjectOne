@@ -6,7 +6,7 @@ A personal website highlighting my skills as a developer.
 
 This three-section website highlights my competancies, along with the number of years experience per competancy, details what I can offer clients, and provides contact information.
 
-A live version can be found here (https://www.jamesbrunt.co.uk)
+A live version can be found here (http://www.jamesbrunt.co.uk)
 
 ![Jimmy Brunt : Full Stack Developer](/assets/images/screenshot.png)
 
